@@ -1,11 +1,13 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![image](https://github.com/Jmallone/jmallone/blob/main/github_bg.png)](https://github.com/Jmallone?tab=repositories)
 
-Hi, I'm Michel Gomes, a computer science student rocket from Brazil. Beside's programming, I enjoy eating food and traveling.
+---
 
-Talking about Personal Stuffs::scroll:
+Hi, I'm Michel Gomes, a computer science student, from Brazil. Beside's programming, I enjoy eating food and traveling.
 
+---
+Talking about Personal Stuffs:
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 📫 How to reach me: **michels@alunos.utpr.edu.br**
 - :smile: Pronouns: he/him
 - :speech_balloon: Ask me about **C** and **Python** and **Movies**!
-- :zap: Fun fact: I like Podcasts 
+- :zap: Fun fact: I like Podcasts :studio_microphone:

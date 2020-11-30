@@ -4,6 +4,8 @@ Hi, I'm Michel Gomes, a computer science student rocket from Brazil. Beside's pr
 
 Talking about Personal Stuffs::scroll:
 
-    - 👨🏽‍💻 I’m currently working on something cool :wink:;
-    - 📫 How to reach me: [michels@alunos.utpr.edu.br];
-    
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 📫 How to reach me: **michels@alunos.utpr.edu.br**
+- :smile: Pronouns: he/him
+- :speech_balloon: Ask me about **C** and **Python** and **Movies**!
+- :zap: Fun fact: I like Podcasts 

@@ -5,7 +5,7 @@
 Hi, I'm Michel Gomes, a computer science student, from Brazil. Beside's programming, I enjoy eating food and traveling.
 
 
-or 
+type in your terminal:
 `npx michel`
 
 ---

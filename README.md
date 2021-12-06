@@ -15,4 +15,4 @@ Talking about Personal Stuffs:
 - :smile: Pronouns: he/him
 - :speech_balloon: Ask me about **C** and **Python** and **Movies**!
 - :zap: Fun fact: I like and make [Podcasts](https://www.instagram.com/cafeinacm/) :studio_microphone:
-- :books: My Websites: [My Fail Code](myfailcode.wordpress.com/) and [JMallone's Page](jmallone.neocities.org/)
+- :books: My Websites: [My Fail Code](https://myfailcode.wordpress.com/) and [JMallone's Page](https://jmallone.neocities.org/)

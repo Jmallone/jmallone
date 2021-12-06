@@ -14,4 +14,5 @@ Talking about Personal Stuffs:
 - 📫 How to reach me: **michels@alunos.utpr.edu.br** | https://t.me/Jmallone
 - :smile: Pronouns: he/him
 - :speech_balloon: Ask me about **C** and **Python** and **Movies**!
-- :zap: Fun fact: I like [Podcasts](https://www.instagram.com/cafeinacm/) :studio_microphone:
+- :zap: Fun fact: I like and make [Podcasts](https://www.instagram.com/cafeinacm/) :studio_microphone:
+- :books: My Websites: [My Fail Code](myfailcode.wordpress.com/) and [JMallone's Page](jmallone.neocities.org/)

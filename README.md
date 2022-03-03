@@ -10,7 +10,7 @@ type in your terminal:
 
 ---
 Talking about Personal Stuffs:
-- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 👨🏽‍💻 I’m currently working: `Webscraping`, `Data Clean` and `Instagram API` :wink:
 - 📫 How to reach me: **michels@alunos.utpr.edu.br** | https://t.me/Jmallone
 - :smile: Pronouns: he/him
 - :speech_balloon: Ask me about **C** and **Python** and **Movies**!

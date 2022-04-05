@@ -16,4 +16,7 @@ Talking about Personal Stuffs:
 - :speech_balloon: Ask me about **C** and **Python** and **Movies**!
 - :zap: Fun fact: I like and make [Podcasts](https://www.instagram.com/cafeinacm/) :studio_microphone:
 - :books: My Websites: [My Fail Code](https://myfailcode.wordpress.com/) and [JMallone's Page](https://jmallone.neocities.org/)
+---
+📦 To see all my projects organized and categorized [click here](https://docs.google.com/document/d/e/2PACX-1vQ7117Lfa7MQ75uIsLDrjGi9PwTztgVjEHLtUfdl-_TJtqKw2f6QgdhHwM6ZNySPYo4uTqK-RhGi5j6/pub)_(pt-br)_.
+---
 > ☕ ___If I helped you with something___, [buy me a coffee!](https://www.buymeacoffee.com/jmallone2)

@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I'm Michel Gomes, a computer science student, from Brazil. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Michel Gomes, a computer scientist, from Brazil. Beside's programming, I enjoy eating food and traveling.
 
 
 type in your terminal:
